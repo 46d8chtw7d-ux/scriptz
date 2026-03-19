@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NinoGod/Free-Script/main/Maru-x-Hub-Free.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Itsukareal/BaconHub/main/BaconHub.lua"))()
