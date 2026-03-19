@@ -1,5 +1,1 @@
-game.StarterGui:SetCore("SendNotification", {
-    Title = "Teddy",
-    Text = "Script chạy rồi",
-    Duration = 5
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NinoGod/Free-Script/main/Maru-x-Hub-Free.lua"))()
